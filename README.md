@@ -4,8 +4,16 @@ Mincraft_Mod
 Create by 
     takashiiiiiiiiiiii or MCID:YourWhistle29
 
-Forge1.16.5で動作
+-----------動作条件-----------
 
-今後の予定、、、
+  -Forge1.16.5で動作
 
-　-forge1.15.2のリリース
+-----------既存の問題-----------
+
+  -godswordが追加されない
+
+  -downloadコマンドが使えない
+
+-----------今後の予定-----------
+
+-forge1.15.2のリリース
