@@ -4,6 +4,10 @@ Mincraft_Mod
 Create by 
     takashiiiiiiiiiiii or MCID:YourWhistle29
 
+-----------概要--------------
+
+  -様々な剣やアイテムなどを追加する、とにかく面白い(個人的な感想)mod
+
 -----------動作条件-----------
 
   -Forge1.16.5で動作
